@@ -1,1 +1,1 @@
-# InheritanceExcercise
+# InheritanceExercise
